@@ -1,1 +1,1 @@
-# Blueprint-Powe-Modeling-Tool
+# Blueprint-Power-Modeling-Tool
