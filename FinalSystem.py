@@ -188,7 +188,6 @@ for x in range(0,len(weeksList)):
     weeklyProfit[k] = weeklyRevenue + weeklyLoss
     k += 1
 
-print('up to here ')
 #find the index of the week that yields the max profit
 maxProfit_Week= np.argmax(weeklyProfit)
 
