@@ -15,14 +15,16 @@ Inputs:
   
   2. Market Price inputs:
   
-  Hourly LMBPS (write the beginning names of the csv files, i.e., the year for the variable named 'filenames'
-  Zone 
+  -Hourly LMBPS (write the beginning names of the csv files, i.e., the year for the variable named 'filenames')
+  (Please note that examples of input CSV files of historical NYISO data can be found within the referrals of this repository) 
+  
+  -Zone (any in NY state) 
   
  Outputs:
  
-  CSV file with power output (kW) & State of Energy (kWh)
+  -CSV file with power output (kW) & State of Energy (kWh)
   
-  CSV file with total annual revenue generation, total annual charging cost, and total annual throughput 
+  -CSV file with total annual revenue generation, total annual charging cost, and total annual throughput 
   
  NOTE:
  I've added an extra file called 'dayAheadPrediction.' I've created a neural network to assist the project with energy price projections, but is in its early stages and requires more development, tuning and data to become effective. I figured it couldn't hurt to attempt to solve the problem of next-day forecasts, so I included it here! 
