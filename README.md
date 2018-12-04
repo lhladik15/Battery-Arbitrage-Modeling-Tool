@@ -95,7 +95,7 @@ inputs and assumptions:
 
 2.Market prices inputs:
 
-■ 2017 Hourly LBMPs (accessible from NYISO historical price data on website) 
+■ 2017 Hourly LBMPs (examples of these CSVs can be found in the releases of this repository) 
 
 ■ Zone = N.Y.C.
 
